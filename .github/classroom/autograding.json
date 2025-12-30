@@ -3,7 +3,7 @@
     {
       "name": "Run Maven Tests",
       "setup": "",
-      "run": "mvn clean test",
+      "run": "mvn -B -ntp clean test",
       "input": "",
       "output": "",
       "comparison": "included",
